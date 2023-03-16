@@ -1,7 +1,7 @@
-import tehran from "./images/tehran.jpg";
-import frankfurt from "./images/frankfurt.jpg";
-import paris from "./images/paris.jpg";
-import fiji from "./images/fiji.jpg";
+import tehran from "./images/tehran.png";
+import frankfurt from "./images/frankfurt.png";
+import paris from "./images/paris.png";
+import fiji from "./images/fiji.png";
 
 
 const data = [
